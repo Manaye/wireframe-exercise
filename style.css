@@ -1,9 +1,9 @@
 ul{
     background-color: #444;
     color: #fff;
-    width: 55%;
+    width: 40.60%;
     padding: 20px;
-    margin-left: 20px;
+    margin-left: 75px;
     
 }
 ul li {
@@ -15,7 +15,7 @@ ul li {
 ul li:first-child{
 background-color: #111;
 margin-left: 35px;
-padding: 10px 50px;
+padding: 10px 30px;
 width: 300px;
 height: 70px;
 }
@@ -45,8 +45,9 @@ div img{
 .lorem{
     
     width: 450px;
+    height: 400px;
     
-    overflow-y: scroll;
+    overflow: auto;
     
 }
 button{
@@ -66,9 +67,10 @@ button:hover{
 button{
     margin-bottom: 25px;
 }
+
 .footer{
-    margin-left: 20px;
+    margin-left: 75px;
     height: 100px;
-    width: 55%;
+    width: 42.60%;
     background-color: #444;
 }
